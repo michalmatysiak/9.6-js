@@ -1,5 +1,25 @@
 body {
-	background-color: silver;
-	text-align: center;
+	background-image: url('https://images.pexels.com/photos/238118/pexels-photo-238118.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260');
+	-webkit-background-size: cover;
+	background-size: cover;
+	text-align: left;
 	margin: 0 auto;
+	font-weight: bold;
+}
+ul {
+	list-style-type: none;
+}
+li {
+	padding: 5px;
+	letter-spacing: 1px;
+}
+button {
+	font-size: 15px;
+	padding: 10px;
+	margin: 5px;
+	color:  #363636;
+	border-radius: 5px;
+	text-shadow: none;
+	background-color: lightblue;
+	font-weight: bold;
 }
